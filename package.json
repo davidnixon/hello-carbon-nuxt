@@ -24,7 +24,7 @@
     "@nuxt/eslint": "^1.4.1",
     "@nuxtjs/i18n": "^9.5.4",
     "@nuxtjs/tailwindcss": "^6.14.0",
-    "@sidebase/nuxt-auth": "^0.10.1",
+    "@sidebase/nuxt-auth": "^1.0.0",
     "luxon": "^3.6.1",
     "next-auth": "~4.21.1",
     "nuxt": "^4.0.1",
